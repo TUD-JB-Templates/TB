@@ -7,7 +7,7 @@ Whether JB2 is the right choice for you depends on your specific needs. Below is
 
 ::::{tab-set}
 :::{tab-item} TB
-**Positives:**
+**pros:**
 - Quick start
 - Additional functionality built by teachers
 - Full customizable through CSS
@@ -20,7 +20,7 @@ Whether JB2 is the right choice for you depends on your specific needs. Below is
 - May feel as black box approach (what is under the hood)
 :::
 :::{tab-item} JB 2
-**Positives:**
+**pros:**
 - High quality pdf with ease
 - Newest technology, still in development
 - Used in science publication
@@ -32,7 +32,7 @@ Whether JB2 is the right choice for you depends on your specific needs. Below is
 - Public from start if not built locally
 :::
 :::{tab-item} JB 1
-**Positives:**
+**pros:**
 - Bare bone version
 - Software developed and support by JB1 developers
 
